@@ -1,0 +1,4 @@
+finetuned_arctic_ft/
+data/
+checkpoints/
+*.jsonl
