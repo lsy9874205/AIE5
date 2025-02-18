@@ -5,3 +5,6 @@ checkpoints/
 
 # Dataset files
 *.jsonl
+finetuned_arctic_ft/
+data/
+checkpoints/
