@@ -1,10 +1,4 @@
-# Directories to ignore
-finetuned_arctic_ft/
-data/
-checkpoints/
-
-# Dataset files
-*.jsonl
-finetuned_arctic_ft/
-data/
-checkpoints/
+09_Finetuning_Embeddings/finetuned_arctic_ft/
+09_Finetuning_Embeddings/data/
+09_Finetuning_Embeddings/checkpoints/
+09_Finetuning_Embeddings/*.jsonl
