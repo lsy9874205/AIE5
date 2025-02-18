@@ -1,0 +1,7 @@
+# Directories to ignore
+finetuned_arctic_ft/
+data/
+checkpoints/
+
+# Dataset files
+*.jsonl
