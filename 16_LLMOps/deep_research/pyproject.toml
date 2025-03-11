@@ -21,6 +21,7 @@ dependencies = [
     "pymupdf>=1.25.3",
     "xmltodict>=0.14.2",
     "langgraph-cli[inmem]>=0.1.75",
+    "pyproject-toml>=0.1.0",
 ]
 
 [project.optional-dependencies]
